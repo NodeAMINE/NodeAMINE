@@ -60,7 +60,7 @@ Je suis un développeur **Full Stack** basé au Canada, spécialisé dans l'ing�
 
 <!-- Trophées GitHub -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NodeAMINE&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NodeAMINE&theme=dark" alt="Trophies" />
 </p>
 
 <!-- Graphique d'Activité -->
