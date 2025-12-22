@@ -9,8 +9,9 @@
 
 ---
 
+<!-- BANNIÈRE -->
 <p align="center">
-  <img src="github_profile_banner.png" alt="Profile Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/NodeAMINE/NodeAMINE/main/github_profile_banner.png" alt="Profile Banner" width="100%">
 </p>
 
 ---
@@ -22,8 +23,9 @@ Je suis un développeur **Full Stack** basé au Canada, spécialisé dans l'ing�
 - 🏗️ **Architecture** : Expert en **Symfony**, **Clean Architecture** et design patterns.
 - 🛡️ **Sécurité** : Mise en place de protocoles d'authentification et de protection de données avancés.
 
+<!-- SÉPARATEUR -->
 <p align="center">
-  <img src="ai_section_divider.png" alt="Divider" width="100%">
+  <img src="https://raw.githubusercontent.com/NodeAMINE/NodeAMINE/main/ai_section_divider.png" alt="Divider" width="100%">
 </p>
 
 ---
@@ -52,19 +54,19 @@ Je suis un développeur **Full Stack** basé au Canada, spécialisé dans l'ing�
 ### <img src="https://raw.githubusercontent.com/MartinVeric/MartinVeric/master/assets/icons/stats.gif" width="30px"> Métriques de Contribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nodeamine&show_icons=true&theme=transparent&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodeamine&layout=compact&theme=transparent&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NodeAMINE&show_icons=true&theme=transparent&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NodeAMINE&layout=compact&theme=transparent&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=00000000" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NodeAMINE&theme=transparent&stroke=00BFFF&fire=00BFFF&ring=00BFFF&currStreakNum=00BFFF&sideLabels=ffffff&dates=ffffff" alt="Streak Stats" width="97%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NodeAMINE&theme=tokyonight&border_radius=10" alt="Streak Stats" width="97%"/>
 </p>
 
 <br>
 
 #### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/nodeamine/nodeamine/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/NodeAMINE/NodeAMINE/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
