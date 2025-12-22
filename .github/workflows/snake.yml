@@ -17,13 +17,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
     
     steps:
-      # generates a snake game from a github user (nodeamine) contributions graph, output a svg animation at <github_user_name>/github-contribution-grid-snake.svg
+      # generates a snake game from a github user (NodeAMINE) contributions graph, output a svg animation at <github_user_name>/github-contribution-grid-snake.svg
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: nodeamine
+          github_user_name: NodeAMINE
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
