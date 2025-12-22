@@ -59,7 +59,11 @@ Je suis un développeur **Full Stack** basé au Canada, spécialisé dans l'ing�
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NodeAMINE&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NodeAMINE&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NodeAMINE&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <br>
