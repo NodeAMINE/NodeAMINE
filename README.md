@@ -58,10 +58,12 @@ Je suis un développeur **Full Stack** basé au Canada, spécialisé dans l'ing�
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NodeAMINE&layout=compact&theme=transparent&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=00000000" width="48%" />
 </p>
 
+<!-- Trophées GitHub -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NodeAMINE&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NodeAMINE&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
 </p>
 
+<!-- Graphique d'Activité -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NodeAMINE&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
