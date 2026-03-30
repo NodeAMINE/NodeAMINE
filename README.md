@@ -19,10 +19,10 @@
 ### <img src="https://raw.githubusercontent.com/MartinVeric/MartinVeric/master/assets/icons/about.gif" width="30px"> À Propos de l'Architecte
 Je suis un développeur **Full Stack** basé au Canada, spécialisé dans l'ingénierie de solutions web élégantes et scalables. Mon approche est guidée par l'innovation et la rigueur technique.
 
-- 🤖 **IA & Innovation** : Intégration de solutions intelligentes et automatisées.
-- 🏗️ **Architecture** : Expert en **Symfony**, **Clean Architecture** et design patterns.
-- 🛡️ **Sécurité** : Mise en place de protocoles d'authentification et de protection de données avancés.
-
+- IA & Innovation : Intégration de solutions intelligentes et automatisées.
+- Architecture : Expert en **Symfony**, **Clean Architecture** et design patterns.
+- Sécurité : Mise en place de protocoles d'authentification et de protection de données avancés.
+- Support: Windows, réseau (TCP/IP, DNS, DHCP), VirtualBox, PowerShell
 <!-- SÉPARATEUR -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/NodeAMINE/NodeAMINE/main/ai_section_divider.png" alt="Divider" width="100%">
